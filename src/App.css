@@ -1,0 +1,50 @@
+.App {
+    text-align: center;
+    background-color: #ffffff;
+    font-family: 'Roboto Light', sans-serif;
+}
+
+.App-header {
+    top: 0;
+    left: 0;
+    height: 7vh;
+    max-height: 70px;
+    width: calc(100%);
+    position: fixed;
+    z-index: 20;
+    background-color: black;
+}
+
+.App-content {
+    position: relative;
+}
+
+.App-header-spacer {
+    top: 0;
+    left: 0;
+    height: 6vh;
+    max-height: 70px;
+    width: calc(100%);
+    z-index: 19;
+    background-color: black;
+}
+
+.App-title {
+    font-size: 1.5em;
+}
+
+.App-intro {
+    font-size: large;
+}
+
+.Div-container {
+    position: relative;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('./fonts/Roboto-Light.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+

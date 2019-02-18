@@ -1,0 +1,2 @@
+const imgUrl = "https://res.cloudinary.com/teepublic/image/private/s--0S_pD4nL--/t_Preview/b_rgb:ffb81c,c_limit,f_jpg,h_630,q_90,w_630/v1467192389/production/designs/564841_1.jpg"
+export default imgUrl;
